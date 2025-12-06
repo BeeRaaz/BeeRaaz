@@ -6,12 +6,6 @@ My laptop is my creative canvas, and a steaming mug of tea or coffee is my trust
 
 ---
 
-### 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeeRaaz&layout=compact&theme=tokyonight)
-
----
-
 <!--
 **BeeRaaz/BeeRaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
